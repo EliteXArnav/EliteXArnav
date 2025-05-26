@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm EliteXArnav! 
 
-<!--
-**EliteXArnav/EliteXArnav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+## Welcome to my GitHub Profile
 
+- 🔭 Currently learning **Advanced Python** & exploring **Web Development**
+- 🌱 Building projects to sharpen my skills
+- ⚡ Goals: To Master 11 programming languages in one year
+- 📫 How to reach me: coderxelitearnav@gmail.com
 
-<!--  🔭 I’m currently working on -->
-- 🌱 I’m currently learning advanced level python and intermediate level html
-- <!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Languages: Python, HTML (learning)
+- Tools: VS Code
+
+## 📈 GitHub Stats
+![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliteXArnav&show_icons=true&theme=tokyonight)
