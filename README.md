@@ -1,9 +1,9 @@
 # Hey, I'm Arnav! Welcome to my GitHub
 
 ## 🚀 About Me
-- 🧠 Learning advanced Python and diving into full-stack development  
+- 🧠 Learning advanced Python and  intermediate web development   
 - 🛠️ Goal: Master 11 programming languages including Python, HTML, JS, Java, C/C++, C#, PHP, Assembly, Kotlin  
-- 📚 Currently focused on Python (OOP)  
+- 📚 Currently focused on Python (OOP)  and Minor Web Development 
 - 🌱 Always building, always learning  
 
 ## 🔧 Tech Stack
@@ -28,6 +28,9 @@
 
 ## ✨ Projects
 - None right now — stay tuned!
+
+- ## 📌 Pinned Repositories (Coming Soon)
+- Coming Soon! -- Stay Tuned 
 
 ## ⚡ Fun Fact
 I’m on a mission to become a **multi-language coding beast** — one repo at a time.
