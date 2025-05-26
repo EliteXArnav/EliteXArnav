@@ -1,15 +1,20 @@
-# Hi, I'm EliteXArnav! 
+# Hey, I'm Arnav! Welcome to my GitHub
 
-## Welcome to my GitHub Profile
-
-- 🔭 Currently learning **Advanced Python** & exploring **Web Development**
-- 🌱 Building projects to sharpen my skills
-- ⚡ Goals: To Master 11 programming languages in one year
-- 📫 How to reach me: coderxelitearnav@gmail.com
+## 🚀 About Me
+- 🧠 Learning advanced Python and diving into full-stack development
+- 🛠️ Goal: Master 11 programming languages including Python, HTML, JS, Java, C++/C, , C#, PhP, Assembly, Kotlin
+- 📚 Currently focused on Python (OOP)
+- 🌱 Always building, always learning
 
 ## 🔧 Tech Stack
-- Languages: Python, HTML (learning)
-- Tools: VS Code
+- **Languages:** Python, HTML (learning)
+- **Tools:** GitHub And VS Code
 
 ## 📈 GitHub Stats
-![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliteXArnav&show_icons=true&theme=tokyonight)
+![Arnav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EliteXArnav&show_icons=true&theme=radical)
+
+## ✨ Projects
+- None Right Now
+
+## ⚡ Fun Fact
+I’m on a mission to become a **multi-language coding beast**—one repo at a time.
