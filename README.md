@@ -1,3 +1,5 @@
+![Banner](https://github.com/EliteXArnav/EliteXArnav/blob/af003c60e6d1fc38bd67f2c4422bc1e234f25b8d/Banner.png)
+
 # Hey, I'm Arnav! Welcome to my GitHub
 
 ## 🚀 About Me
