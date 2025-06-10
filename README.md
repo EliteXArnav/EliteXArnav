@@ -18,9 +18,6 @@
 ## 🗓️ GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=EliteXArnav&theme=radical&hide_border=true)
 
-## 👥 Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=EliteXArnav&label=Profile+Views&color=blueviolet&style=flat)
-
 ## 🧠 Skills
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
