@@ -30,4 +30,4 @@
 - Coming Soon! -- Stay Tuned 
 
 ## ⚡ Fun Fact
-I’m on a mission to become a **one ofe the best coders** — one repo at a time.
+I’m on a mission to become a **one of the best coders** — one repo at a time.
